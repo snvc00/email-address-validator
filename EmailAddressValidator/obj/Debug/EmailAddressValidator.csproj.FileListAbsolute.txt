@@ -1,0 +1,10 @@
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\bin\Debug\EmailAddressValidator.exe.config
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\bin\Debug\EmailAddressValidator.exe
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\bin\Debug\EmailAddressValidator.pdb
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Debug\EmailAddressValidator.csprojAssemblyReference.cache
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Debug\EmailAddressValidator.MainWindow.resources
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Debug\EmailAddressValidator.Properties.Resources.resources
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Debug\EmailAddressValidator.csproj.GenerateResource.cache
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Debug\EmailAddressValidator.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Debug\EmailAddressValidator.exe
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Debug\EmailAddressValidator.pdb

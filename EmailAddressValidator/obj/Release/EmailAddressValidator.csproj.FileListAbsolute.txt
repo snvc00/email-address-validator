@@ -1,0 +1,9 @@
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\bin\Release\EmailAddressValidator.exe.config
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\bin\Release\EmailAddressValidator.exe
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\bin\Release\EmailAddressValidator.pdb
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Release\EmailAddressValidator.MainWindow.resources
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Release\EmailAddressValidator.Properties.Resources.resources
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Release\EmailAddressValidator.csproj.GenerateResource.cache
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Release\EmailAddressValidator.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Release\EmailAddressValidator.exe
+C:\Users\SantiagoValle\source\repos\EmailAddressValidator\EmailAddressValidator\obj\Release\EmailAddressValidator.pdb
